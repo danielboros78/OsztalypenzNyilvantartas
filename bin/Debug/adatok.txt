@@ -1,0 +1,7 @@
+Hunor;3000;befizetes;2022. 02. 03. 19:13:32
+Gabor;2500;befizetes;2022. 02. 04. 16:45:38
+osztályfőnök;2000;kifizetes;2022. 02. 17. 19:15:41
+osztályfőnök;1000;kifizetes;2022. 02. 18. 19:15:41
+Feri;4000;befizetes;2022. 02. 20. 19:16:47
+Hunor;2000;befizetes;2022. 02. 21. 19:16:47
+osztályfőnök;5000;kifizetes;2022. 02. 23. 19:16:47
